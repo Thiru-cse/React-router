@@ -5,7 +5,6 @@ import Home from "./Home";
 import PageNotFound from "./PageNotFound";
 import Post from "./Post";
 
-
 function Routes () {
     return (
         <Switch>
